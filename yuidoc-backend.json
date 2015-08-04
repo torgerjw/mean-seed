@@ -1,0 +1,11 @@
+{
+    "name": "mean-seed",
+    "description": "my really cool app!",
+    "version": "0.0.0",
+    "url": "https://github.com/torgerjw/mean-seed",
+    "options": {
+        "paths": ".",
+        "outdir": "yuidocs/backend",
+        "exclude": "node_modules,public,src"
+    }
+}
